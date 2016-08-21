@@ -1,0 +1,11 @@
+GUI tool for visualising and playing with the parameters of various probability distributions
+
+usage: python probability_dist_gui.py
+
+python, matplotlib, numpy and Tkinter must be installed
+
+TODO: finish exponential distribution
+      add ability to switch between distributions w/o having to restart program
+      replace names of Greek symbols by actual Greek symbols
+      add explanation in the gui about how the simulated values are produced
+      add normal, pareto and poisson distributions
